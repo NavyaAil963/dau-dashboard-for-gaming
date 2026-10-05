@@ -1,0 +1,13 @@
+{
+  "sessions": 54994,
+  "players": 700,
+  "countries": {
+    "US": 24956,
+    "UK": 30038
+  },
+  "min_date": "2022-05-01T00:09:09Z",
+  "max_date": "2025-10-17T00:26:07Z",
+  "activity_rows": 26870,
+  "invalid_sessions": 0,
+  "recommended_month": "2024-03"
+}
